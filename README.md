@@ -1,6 +1,6 @@
 # LAB - Class 18
 
-## Project: Caesa
+## Project: Caesar Cipher
 ## Author: Brian Sward
 ## Links and Resources
 - n/a
